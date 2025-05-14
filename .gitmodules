@@ -1,3 +1,6 @@
 [submodule "Lab3"]
 	path = Lab3
 	url = https://github.com/selenelim/Lab3.git
+[submodule "SchoolVer"]
+	path = SchoolVer
+	url = https://github.com/ET0735-DevOps-AIoT/Lab3.git
